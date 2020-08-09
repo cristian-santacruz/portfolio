@@ -1,2 +1,1 @@
 # portfolio
-Creative Frontend Developer
